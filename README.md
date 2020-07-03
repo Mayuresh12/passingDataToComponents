@@ -1,2 +1,0 @@
-# passingDataToComponents
-Udacity practice project
